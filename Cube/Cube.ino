@@ -1,4 +1,9 @@
-int ID = 3; //You can find the ID of the cube on the inside of the cap
+// Set the ID of the Cube
+int ID = 1; //You can find the ID of the cube on the inside of the cap
+
+// Set the WiFi credentials
+const char* ssid = "ssid";
+const char* password = "password!";
 
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
