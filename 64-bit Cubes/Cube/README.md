@@ -1,7 +1,3 @@
-# Connected Cubes
-
-Winter term 2017/2018
-
 ## Compile Firmware
 
 The firmware can be compiled using the Arduino IDE. Please make sure you have the following platforms and libraries installed:
